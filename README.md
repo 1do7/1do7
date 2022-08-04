@@ -1,4 +1,5 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there+stranger+%F0%9F%91%8B"></h1>
+<p>I <3 writing spaghetti code<p>
 <h2>My Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=1do7&theme=synthwave&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1do7&layout=compact&theme=synthwave">
